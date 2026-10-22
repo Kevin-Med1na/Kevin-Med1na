@@ -52,15 +52,6 @@ Clon del clásico Pac-Man creado en **Java 21 y Swing**, con niveles, estados de
 
 ---
 
-## 📊 Mi actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevin-Med1na&show_icons=true&hide_title=true&rank_icon=github" alt="Estadísticas de GitHub de Kevin" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Med1na&layout=compact&langs_count=8" alt="Lenguajes más usados" />
-</p>
-
----
-
 ## 🤝 Conectemos
 
 - **GitHub:** [@Kevin-Med1na](https://github.com/Kevin-Med1na)
